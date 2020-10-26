@@ -1,0 +1,10 @@
+{
+    "compilerOptions": {
+        "allowJs": false,
+        "strict": true,
+        "charset": "utf-8",
+        "lib": [
+            "ES2020"
+        ]
+    }
+}
