@@ -12,7 +12,6 @@
         "cspell": "cspell '**/*'",
         "prepare": "npm run -s clean && npm run -s compile",
         "test": "npm run -s cspell && npm run -s check",
-        "dist": "webpack",
         "start": "nodemon lib/main/server"
     },
     "main": "lib/main/server",
